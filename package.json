@@ -1,0 +1,38 @@
+{
+  "name": "threejs-zoom-to-cursor",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@react-spring/three": "9.0.0-rc.3",
+    "@react-three/drei": "2.2.0",
+    "@react-three/flex": "0.5.2",
+    "postprocessing": "6.17.4",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-postprocessing": "1.4.0",
+    "react-scripts": "3.4.3",
+    "react-three-fiber": "5.0.6",
+    "react-three-gui": "0.3.1",
+    "three": "0.121.1",
+    "use-cannon": "0.5.3"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.8",
+    "@types/react-dom": "16.8.2",
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
